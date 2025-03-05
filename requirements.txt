@@ -1,0 +1,14 @@
+torchvision==0.17.2
+torch==2.2.2
+diffusers==0.26.3
+numpy==1.24.4
+huggingface_hub==0.25.1
+transformers
+accelerate
+mediapy
+ipywidgets
+einops
+gradio
+librosa
+torchaudio
+laion-clap
