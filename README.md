@@ -7,8 +7,6 @@
 <p><sup>1</sup>Hangzhou Dianzi University &nbsp;&nbsp;<sup>2</sup>Institute of Computing Technology, Chinese Academy of Sciences
 <br><sup>*</sup>Equal contribution &nbsp;&nbsp;<sup>&dagger;</sup>Corresponding author<p>
 
-### [Projectpage]() · [Paper](https://arxiv.org/pdf/2305.10061.pdf) · [Video](https://youtu.be/dXU1t7V8yi4)
-
 </div>
 
 ### [CVPR 2025] [Workshop on AI for Creative Visual Content Generation, Editing, and Understanding](https://cveu.github.io/)
