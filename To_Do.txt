@@ -1,4 +1,0 @@
-Thinks To-Do:
-- Create functions and implementations with Focused Attention. 
-- Try it out some other activation functions for the Focused Attention, namely: GELU, Swish, Mish, ELU. (NOT ANYMORE LINEAR)
-    - Try Leaky ReLU, PReLU, RReLU, Maxout
