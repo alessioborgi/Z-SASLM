@@ -33,10 +33,7 @@ Sapienza University of Rome
 
 ## Overview 🚀
 
-**Z-SASLM** redefines multi-style image synthesis by leveraging Spherical Linear Interpolation (SLI) for zero-shot style alignment. It harnesses the non-linear geometry of the latent space for smooth, high-fidelity blending—without any fine-tuning.
-
-This work has been **accepted to the CVPR 2025 Workshop on AI for Creative Visual Content Generation, Editing and Understanding**, where we showcase its theoretical brilliance and practical versatility in multi-modal content fusion.
-
+This is an *Official Implementation* of the paper **Z-SASLM: Zero-Shot Style-Aligned SLI Blending Latent Manipulation**, accepted at **CVPR 2025, Workshop on AI for Creative Visual Content Generation, Editing, and Understanding**. Z-SASLM is a zero-shot framework for multi-style image synthesis that leverages Spherical Linear Interpolation (SLI) to achieve smooth, coherent blending—without any fine-tuning. 
 ---
 
 ## Abstract ✨
