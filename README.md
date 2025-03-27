@@ -2,7 +2,7 @@
 
 # <b>Z-SASLM: Zero-Shot Style-Aligned SLI Blending Latent Manipulation
 
-[Hang Xu](https://scholar.google.com/citations?user=HtBg_hwAAAAJ&hl=zh-CN)<sup>1*</sup>, [Xinyuan Liu](https://antxinyuan.github.io/)<sup>2*</sup>, [Haonan Xu](https://scholar.google.com/citations?user=Up_a2VAAAAAJ&hl=zh-CN)<sup>2</sup>, [Yike Ma](http://www.ict.cas.cn/sourcedb_ict_cas/cn/jssrck/201511/t20151119_4470413.html)<sup>2</sup>, [Zunjie Zhu]()<sup>1</sup>, [Chenggang Yan](https://cgyan-iipl.github.io/)<sup>1</sup>, [Feng Dai](http://www.ict.cas.cn/sourcedb_ict_cas/cn/jssrck/201404/t20140422_4096774.html)<sup>2†</sup>
+[Alessio Borgi](https://scholar.google.com/citations?user=HtBg_hwAAAAJ&hl=zh-CN)<sup>1*</sup>, [Luca Maiano]([https://antxinyuan.github.io/](https://scholar.google.com/citations?user=FZyBVqkAAAAJ&hl=it&oi=ao))<sup>2*</sup>, [Irene Amerini]([https://scholar.google.com/citations?user=Up_a2VAAAAAJ&hl=zh-CN](https://scholar.google.com/citations?user=4ZDhr6UAAAAJ&hl=it&oi=ao))<sup>2</sup>, [Yike Ma](http://www.ict.cas.cn/sourcedb_ict_cas/cn/jssrck/201511/t20151119_4470413.html)<sup>2</sup>, [Zunjie Zhu]()<sup>1</sup>, [Chenggang Yan](https://cgyan-iipl.github.io/)<sup>1</sup>, [Feng Dai](http://www.ict.cas.cn/sourcedb_ict_cas/cn/jssrck/201404/t20140422_4096774.html)<sup>2†</sup>
 
 <p><sup>1</sup>Hangzhou Dianzi University &nbsp;&nbsp;<sup>2</sup>Institute of Computing Technology, Chinese Academy of Sciences
 <br><sup>*</sup>Equal contribution &nbsp;&nbsp;<sup>&dagger;</sup>Corresponding author<p>
