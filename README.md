@@ -2,7 +2,7 @@
 
 # <b>Z-SASLM: Zero-Shot Style-Aligned SLI Blending Latent Manipulation
 
-[Alessio Borgi](https://www.linkedin.com/in/alessio-borgi-a85b461a2/), [Luca Maiano](https://scholar.google.com/citations?user=FZyBVqkAAAAJ&hl=it&oi=ao), [Irene Amerini](https://scholar.google.com/citations?user=4ZDhr6UAAAAJ&hl=it&oi=ao)
+[Alessio Borgi]<sup>*</sup> (<a href="https://www.linkedin.com/in/alessio-borgi-a85b461a2/">LinkedIn</a>), [Luca Maiano](https://scholar.google.com/citations?user=FZyBVqkAAAAJ&hl=it&oi=ao), [Irene Amerini](https://scholar.google.com/citations?user=4ZDhr6UAAAAJ&hl=it&oi=ao)
 
 Sapienza University of Rome
 <p>
@@ -11,8 +11,12 @@ Sapienza University of Rome
   <a href="mailto:amerini@diag.uniroma1.it">amerini@diag.uniroma1.it</a>
 </p>
 
+<p align="center"><sup>*</sup>Corresponding author: <a href="mailto:borgi.1952442@studenti.uniroma1.it">borgi.1952442@studenti.uniroma1.it</a></p>
 
 ### <b>[CVPR 2025](https://cvpr.thecvf.com/) [Workshop on AI for Creative Visual Content Generation, Editing, and Understanding](https://cveu.github.io/)
+
+</div>
+
 
 </div>
 
