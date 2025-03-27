@@ -11,9 +11,6 @@
 
 </div>
 
-
-This is an official implementation of the CVPR 2025 paper "Z-SASLM: Zero-Shot Style-Aligned SLI Blending Latent Manipulation". 
-
 <p align="center">
   <a href="https://cveu.github.io/">
     <img src="https://img.shields.io/badge/CVPR%202025-Workshop-blue" alt="CVPR 2025 Workshop Accepted" style="height: 30px; margin-right: 5px;">
