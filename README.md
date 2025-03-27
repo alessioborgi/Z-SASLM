@@ -70,35 +70,8 @@ pip install -r requirements.txt
 
 ---
 
-## Quick Start 🚀
-
-Here's a simple example to get you up and running:
-
-```python
-from z_saslm import ZSASLM
-
-# Initialize the pipeline
-pipeline = ZSASLM()
-
-# Define source and style images
-source_image = "path/to/source_image.jpg"
-style_images = ["path/to/style1.jpg", "path/to/style2.jpg"]
-
-# Perform SLI Blending
-result = pipeline.blend(source_image, style_images)
-
-# Save the blended image
-result.save("path/to/output_image.jpg")
-```
-
-For more details, check out our [notebooks](./notebooks) directory.
-
----
-
 ## Architecture Proposed 📐
 
-Watch our demo video to see Z-SASLM in action:  
-[![Watch the Demo](https://img.youtube.com/vi/your_video_id/0.jpg)](https://www.youtube.com/watch?v=your_video_id)
 
 ---
 
