@@ -6,7 +6,7 @@
 
 Sapienza University of Rome
 
-### <b>[CVPR 2025] [Workshop on AI for Creative Visual Content Generation, Editing, and Understanding](https://cveu.github.io/)
+### <b>[CVPR 2025](https://cvpr.thecvf.com/) [Workshop on AI for Creative Visual Content Generation, Editing, and Understanding](https://cveu.github.io/)
 
 </div>
 
