@@ -1,5 +1,5 @@
 # Z-SASLM: Zero-Shot Style-Aligned SLI Blending Latent Manipulation
-## [CVPR 2025, Workshop on AI for Creative Visual Content Generation, Editing, and Understanding]
+### [CVPR 2025, Workshop on AI for Creative Visual Content Generation, Editing, and Understanding]
 
 This is an official implementation of the CVPR 2025 paper "Z-SASLM: Zero-Shot Style-Aligned SLI Blending Latent Manipulation". 
 
