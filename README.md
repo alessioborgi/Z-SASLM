@@ -6,6 +6,8 @@ This is an official implementation of the CVPR 2025 paper "Z-SASLM: Zero-Shot St
 [![CVPR 2025 Workshop Accepted](https://img.shields.io/badge/CVPR%202025-Workshop-blue)](https://cveu.github.io/) 
 [![Paper Accepted](https://img.shields.io/badge/Paper-Accepted-green)](https://github.com/alessioborgi/Z-SASLM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![arXiv](https://img.shields.io/badge/arXiv-XXXX-blue)](https://arxiv.org/abs/XXXX)
+[![CVPR Page](https://img.shields.io/badge/CVPR-2025-orange)](https://cvpr2025.org/)
 
 ![Header Image](./assets/cover_image.gif)
 
