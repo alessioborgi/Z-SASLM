@@ -2,7 +2,7 @@
 
 # <b>Z-SASLM: Zero-Shot Style-Aligned SLI Blending Latent Manipulation
 
-[Alessio Borgi]([https://scholar.google.com/citations?user=HtBg_hwAAAAJ&hl=zh-CN](https://www.linkedin.com/in/alessio-borgi-a85b461a2/)), [Luca Maiano](https://scholar.google.com/citations?user=FZyBVqkAAAAJ&hl=it&oi=ao), [Irene Amerini](https://scholar.google.com/citations?user=4ZDhr6UAAAAJ&hl=it&oi=ao)
+[Alessio Borgi](https://www.linkedin.com/in/alessio-borgi-a85b461a2/)), [Luca Maiano](https://scholar.google.com/citations?user=FZyBVqkAAAAJ&hl=it&oi=ao), [Irene Amerini](https://scholar.google.com/citations?user=4ZDhr6UAAAAJ&hl=it&oi=ao)
 
 Sapienza University of Rome
 
