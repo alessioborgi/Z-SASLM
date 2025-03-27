@@ -7,9 +7,10 @@
 <p><sup>1</sup>Hangzhou Dianzi University &nbsp;&nbsp;<sup>2</sup>Institute of Computing Technology, Chinese Academy of Sciences
 <br><sup>*</sup>Equal contribution &nbsp;&nbsp;<sup>&dagger;</sup>Corresponding author<p>
 
+### <b>[CVPR 2025] [Workshop on AI for Creative Visual Content Generation, Editing, and Understanding](https://cveu.github.io/)
+
 </div>
 
-### [CVPR 2025] [Workshop on AI for Creative Visual Content Generation, Editing, and Understanding](https://cveu.github.io/)
 
 This is an official implementation of the CVPR 2025 paper "Z-SASLM: Zero-Shot Style-Aligned SLI Blending Latent Manipulation". 
 
