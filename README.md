@@ -5,6 +5,12 @@
 [Alessio Borgi](https://www.linkedin.com/in/alessio-borgi-a85b461a2/), [Luca Maiano](https://scholar.google.com/citations?user=FZyBVqkAAAAJ&hl=it&oi=ao), [Irene Amerini](https://scholar.google.com/citations?user=4ZDhr6UAAAAJ&hl=it&oi=ao)
 
 Sapienza University of Rome
+<p>
+  <a href="mailto:borgi.1952442@studenti.uniroma1.it">borgi.1952442@studenti.uniroma1.it</a>,
+  <a href="mailto:maiano@diag.uniroma1.it">maiano@diag.uniroma1.it</a>,
+  <a href="mailto:amerini@diag.uniroma1.it">amerini@diag.uniroma1.it</a>
+</p>
+
 
 ### <b>[CVPR 2025](https://cvpr.thecvf.com/) [Workshop on AI for Creative Visual Content Generation, Editing, and Understanding](https://cveu.github.io/)
 
