@@ -95,7 +95,7 @@ For more details, check out our [notebooks](./notebooks) directory.
 
 ---
 
-## Live Demo 🎥
+## Architecture Proposed 📐
 
 Watch our demo video to see Z-SASLM in action:  
 [![Watch the Demo](https://img.youtube.com/vi/your_video_id/0.jpg)](https://www.youtube.com/watch?v=your_video_id)
@@ -114,12 +114,6 @@ If you find our work useful, please cite our paper:
   year={2025}
 }
 ```
-
----
-
-## Contributing 🤝
-
-Contributions are highly welcome! Please see our [contributing guidelines](CONTRIBUTING.md) for details on how you can help.
 
 ---
 
