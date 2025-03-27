@@ -3,11 +3,24 @@
 
 This is an official implementation of the CVPR 2025 paper "Z-SASLM: Zero-Shot Style-Aligned SLI Blending Latent Manipulation". 
 
-[![CVPR 2025 Workshop Accepted](https://img.shields.io/badge/CVPR%202025-Workshop-blue)](https://cveu.github.io/) 
-[![Paper Accepted](https://img.shields.io/badge/Paper-Accepted-green)](https://github.com/alessioborgi/Z-SASLM)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![arXiv](https://img.shields.io/badge/arXiv-XXXX-blue)](https://arxiv.org/abs/XXXX)
-[![CVPR Page](https://img.shields.io/badge/CVPR-2025-orange)](https://cvpr2025.org/)
+<p align="center">
+  <a href="https://cveu.github.io/">
+    <img src="https://img.shields.io/badge/CVPR%202025-Workshop-blue" alt="CVPR 2025 Workshop Accepted" style="height: 40px; margin-right: 5px;">
+  </a>
+  <a href="https://github.com/alessioborgi/Z-SASLM">
+    <img src="https://img.shields.io/badge/Paper-Accepted-green" alt="Paper Accepted" style="height: 40px; margin-right: 5px;">
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" style="height: 40px; margin-right: 5px;">
+  </a>
+  <a href="https://arxiv.org/abs/XXXX">
+    <img src="https://img.shields.io/badge/arXiv-XXXX-blue" alt="arXiv" style="height: 40px; margin-right: 5px;">
+  </a>
+  <a href="https://cvpr2025.org/">
+    <img src="https://img.shields.io/badge/CVPR-2025-orange" alt="CVPR Page" style="height: 40px;">
+  </a>
+</p>
+
 
 ![Header Image](./assets/cover_image.gif)
 
