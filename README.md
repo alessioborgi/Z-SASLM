@@ -55,11 +55,12 @@ This is an *Official Implementation* of the paper **Z-SASLM: Zero-Shot Style-Ali
 
 ## Features 🔥
 
-- **Zero-Shot Capability:** No fine-tuning needed for new styles.
-- **SLI Blending:** Geodesic interpolation ensures natural and coherent style transitions.
-- **Intrinsic Latent Navigation:** Respects the non-linear structure of the latent space.
-- **Innovative Metric:** Introduces Weighted Multi-Style DINO VIT-B/8 for robust evaluation.
-- **Multi-Modal Fusion:** Effectively blends styles across varied content scenarios.
+- **Zero-Shot Versatility:** Unlock infinite style possibilities without any fine-tuning.
+- **SLI Blending for Multi-Reference Style Conditioning:** Introduces a novel architecture that leverages spherical linear interpolation to seamlessly blend multiple reference styles without any fine-tuning.
+- **Latent Space Mastery:** Capitalizes on the intrinsic non-linearity of the latent manifold for optimal style integration.
+- **Innovative Evaluation Metric:** Proposes the Weighted Multi-Style DINO VIT-B/8 metric to rigorously quantify style consistency across generated images.
+- **Multi-Modal Content Fusion:** Demonstrates the framework’s robustness by integrating diverse modalities—such as image, audio, and weather data—into a unified content fusion approach.
+
 
 ---
 
