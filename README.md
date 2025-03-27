@@ -4,8 +4,7 @@
 
 [Alessio Borgi](https://scholar.google.com/citations?user=HtBg_hwAAAAJ&hl=zh-CN), [Luca Maiano](https://scholar.google.com/citations?user=FZyBVqkAAAAJ&hl=it&oi=ao), [Irene Amerini](https://scholar.google.com/citations?user=4ZDhr6UAAAAJ&hl=it&oi=ao)
 
-Sapienza University of Rome &nbsp;&nbsp;<sup>2</sup>Institute of Computing Technology, Chinese Academy of Sciences
-<br><sup>*</sup>Equal contribution &nbsp;&nbsp;<sup>&dagger;</sup>Corresponding author<p>
+Sapienza University of Rome, Department of Computer, Control and Management Engineering
 
 ### <b>[CVPR 2025] [Workshop on AI for Creative Visual Content Generation, Editing, and Understanding](https://cveu.github.io/)
 
