@@ -33,10 +33,14 @@ Sapienza University of Rome
   <a href="https://www.researchgate.net/publication/390303255_Z-SASLM_Zero-Shot_Style-Aligned_SLI_Blending_Latent_Manipulation">
     <img src="https://img.shields.io/badge/ResearchGate-Paper-00CCBB?logo=ResearchGate&logoColor=white" alt="ResearchGate" style="height: 30px; margin-right: 5px;">
   </a>
+  <a href="https://paperswithcode.com/paper/XXXXX">
+    <img src="https://img.shields.io/badge/Papers%20with%20Code-Enabled-9cf?logo=paperswithcode&logoColor=white" alt="Papers with Code" style="height: 30px; margin-right: 5px;">
+  </a>
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" style="height: 30px; margin-right: 5px;">
   </a>
 </p>
+
 
 
 ![Header Image](./assets/cover_image.gif)
