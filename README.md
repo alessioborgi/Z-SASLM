@@ -119,7 +119,7 @@ Our experimental evaluation confirms the effectiveness of Z-SASLM across various
 - **Visual Quality:**  
   As shown in the example figures below, Z-SASLM preserves fine stylistic details and avoids the abrupt transitions common in linear blending.  
   <p align="center">
-    <img src="assets/blending/SLERP_2_Styles_Blending_VanGoghEgyptian.png" alt="Screenshot" width="500">
+    <img src="assets/blending/SLERP_2_Styles_Blending_VanGoghEgyptian.png" alt="Screenshot" width="800">
   </p>
 - **Multi-Modal Fusion:**  
   Our ablation studies reveal that incorporating diverse content (e.g., audio and weather data) further enhances the richness of the generated visuals, confirming the benefits of our multi-modal integration.
@@ -127,12 +127,12 @@ Our experimental evaluation confirms the effectiveness of Z-SASLM across various
 Overall, the results validate that Z-SASLM not only improves style consistency but also delivers high-fidelity images even under challenging multi-reference conditions. Explore the [notebooks](./notebooks) for interactive examples and detailed visual comparisons.
 
 <p align="center">
-  <img src="assets/blending/SLERP_3_Styles_Blending_EgyVanGoghMacro.png" alt="Screenshot" width="500">
+  <img src="assets/blending/SLERP_3_Styles_Blending_EgyVanGoghMacro.png" alt="Screenshot" width="800">
 </p>
 
 <p align="center">
-  <img src="assets/blending/SLERP_3_Styles_Blending_EgyPurpleMacro.png" alt="Image 1" width="300" style="margin-right: 10px;">
-  <img src="assets/blending/SLERP_3_Styles_Blending_EgyVanGoghMacro.png" alt="Image 2" width="300">
+  <img src="assets/blending/SLERP_3_Styles_Blending_EgyPurpleMacro.png" alt="Image 1" width="600" style="margin-right: 10px;">
+  <img src="assets/blending/SLERP_3_Styles_Blending_EgyVanGoghMacro.png" alt="Image 2" width="600">
 </p>
 
 ---
