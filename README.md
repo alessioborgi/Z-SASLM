@@ -131,8 +131,8 @@ Overall, the results validate that Z-SASLM not only improves style consistency b
 </p>
 
 <p align="center">
-  <img src="assets/blending/SLERP_3_Styles_Blending_EgyPurpleMacro.png" alt="Image 1" width="600" style="margin-right: 10px;">
-  <img src="assets/blending/SLERP_3_Styles_Blending_EgyVanGoghMacro.png" alt="Image 2" width="600">
+  <img src="assets/blending/SLERP_3_Styles_Blending_EgyPurpleMacro.png" alt="Image 1" width="500" style="margin-right: 10px;">
+  <img src="assets/blending/SLERP_3_Styles_Blending_EgyVanGoghMacro.png" alt="Image 2" width="500">
 </p>
 
 ---
