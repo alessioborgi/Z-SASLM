@@ -45,6 +45,12 @@ Sapienza University of Rome
 
 This is an *Official Implementation* of the paper **Z-SASLM: Zero-Shot Style-Aligned SLI Blending Latent Manipulation**, accepted at **CVPR 2025, Workshop on AI for Creative Visual Content Generation, Editing, and Understanding**. Z-SASLM is a zero-shot framework for multi-style image synthesis that leverages Spherical Linear Interpolation (SLI) to achieve smooth, coherent blending—without any fine-tuning. 
 
+<div style="text-align: center">
+  <img src="assets/blending/Image1.png" alt="Screenshot 1" style="display: inline-block; width: 45%; margin-right: 2%;">
+  <img src="assets/blending/SLERP_3_Styles_Blending_EgyVanGoghMacro.png" alt="Screenshot 2" style="display: inline-block; width: 45%;">
+</div>
+
+
 ---
 
 ## Abstract ✨
@@ -78,6 +84,10 @@ pip install -r requirements.txt
 
 ## Architecture Proposed 📐
 
+<div style="text-align: center">
+  <img src="assets/method/architecture.png" alt="Screenshot" width="1200"/>
+</div>
+
 Our framework is built as a modular pipeline that efficiently combines diverse style references and multi-modal cues without fine-tuning. The architecture comprises four main components:
 
 1. **Reference Image Encoding & Blending:**  
@@ -100,6 +110,24 @@ Our framework is built as a modular pipeline that efficiently combines diverse s
 ---
 
 ## Results & Examples 📊
+
+<div style="text-align: center">
+  <img src="assets/method/architecture.png" alt="Screenshot" width="1200"/>
+</div>
+
+Our experimental evaluation confirms the effectiveness of Z-SASLM across various style blending scenarios:
+
+- **Style Consistency:**  
+  Quantitative comparisons using our innovative Weighted Multi-Style DINO VIT-B/8 metric demonstrate that our SLI Blending significantly outperforms conventional linear interpolation—producing images with robust and coherent style alignment.
+
+- **Visual Quality:**  
+  As shown in the example figures below, Z-SASLM preserves fine stylistic details and avoids the abrupt transitions common in linear blending.  
+  *[Insert side-by-side comparison figures or example images here]*
+
+- **Multi-Modal Fusion:**  
+  Our ablation studies reveal that incorporating diverse content (e.g., audio and weather data) further enhances the richness of the generated visuals, confirming the benefits of our multi-modal integration.
+
+Overall, the results validate that Z-SASLM not only improves style consistency but also delivers high-fidelity images even under challenging multi-reference conditions. Explore the [notebooks](./notebooks) for interactive examples and detailed visual comparisons.
 
 
 ---
