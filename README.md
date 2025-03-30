@@ -111,7 +111,7 @@ Our framework is built as a modular pipeline that efficiently combines diverse s
 ## Results & Examples 📊
 
 <div style="text-align: center">
-  <img src="assets/method/architecture.png" alt="Screenshot" width="1200"/>
+  <img src="assets/results/results.png" alt="Screenshot" width="1200"/>
 </div>
 
 Our experimental evaluation confirms the effectiveness of Z-SASLM across various style blending scenarios:
