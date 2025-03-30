@@ -83,7 +83,7 @@ pip install -r requirements.txt
 
 ## Architecture Proposed 📐
 <p align="center">
-  <img src="assets/method/architecture.png" alt="Screenshot" width="500">
+  <img src="assets/method/architecture.png" alt="Screenshot" width="1000">
 </p>
 Our framework is built as a modular pipeline that efficiently combines diverse style references and multi-modal cues without fine-tuning. The architecture comprises four main components:
 
@@ -108,7 +108,7 @@ Our framework is built as a modular pipeline that efficiently combines diverse s
 
 ## Results & Examples 📊
 <p align="center">
-  <img src="assets/results/results.png" alt="Screenshot" width="500">
+  <img src="assets/results/results.png" alt="Screenshot" width="1000">
 </p>
 
 Our experimental evaluation confirms the effectiveness of Z-SASLM across various style blending scenarios:
