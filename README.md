@@ -39,8 +39,6 @@ Sapienza University of Rome
 </p>
 
 
-![Header Image](./assets/cover_image.gif)
-
 ---
 
 ## Overview 🚀
@@ -79,6 +77,24 @@ pip install -r requirements.txt
 ---
 
 ## Architecture Proposed 📐
+
+Our framework is built as a modular pipeline that efficiently combines diverse style references and multi-modal cues without fine-tuning. The architecture comprises four main components:
+
+1. **Reference Image Encoding & Blending:**  
+   - A Variational Autoencoder (VAE) extracts latent representations from each reference style image.  
+   - Our novel Spherical Linear Interpolation (SLI) Blending module then fuses these latent codes along the geodesic of the hypersphere, ensuring smooth and coherent style transitions.
+
+2. **Text Encoding:**  
+   - Textual prompts are encoded using a CLIP-based module, capturing semantic cues and aligning them with visual features.  
+   - This stage supports both simple captions and richer prompts derived from multiple modalities.
+
+3. **Style-Aligned Image Generation:**  
+   - The blended style representation is combined with the text embeddings to condition a diffusion-based generation process.  
+   - A style-aligned attention mechanism reinforces consistent style propagation throughout the image generation.
+
+4. **Optional Multi-Modal Content Fusion:**  
+   - Additional inputs such as audio, music, or weather data are first transformed into text.  
+   - These are fused into a single “Multi-Content Textual Prompt” via a T5-based rephrasing module, further enriching the conditioning signal for improved creative synthesis.
 
 
 ---
