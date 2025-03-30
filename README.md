@@ -127,13 +127,41 @@ Our experimental evaluation confirms the effectiveness of Z-SASLM across various
 Overall, the results validate that Z-SASLM not only improves style consistency but also delivers high-fidelity images even under challenging multi-reference conditions. Explore the [notebooks](./notebooks) for interactive examples and detailed visual comparisons.
 
 <p align="center">
-  <img src="assets/blending/SLERP_3_Styles_Blending_EgyVanGoghMacro.png" alt="Screenshot" width="800">
-</p>
-
-<p align="center">
   <img src="assets/blending/SLERP_3_Styles_Blending_EgyPurpleMacro.png" alt="Image 1" width="500" style="margin-right: 10px;">
   <img src="assets/blending/SLERP_3_Styles_Blending_EgyVanGoghMacro.png" alt="Image 2" width="500">
 </p>
+
+---
+
+## Ablations 📜
+
+We conducted extensive ablation studies to assess the impact of key components in our framework. Here, we detail our investigations into Guidance Ablation and Multi-Modality Fusion Ablation.
+
+### Guidance Ablation
+
+In the guidance ablation study, we vary the guidance scale (e.g., from 5 to 30) while keeping the style weights constant (e.g., {0.5, 0.5}). Our findings include:
+
+- **Lower Guidance:** Results in images that adhere closely to the textual prompt but may lack pronounced stylistic features.
+- **Higher Guidance:** Amplifies style details, though it can sometimes overpower subtle content cues.
+- **Optimal Range:** A moderate guidance range (typically 15–20) achieves a balanced trade-off between style fidelity and prompt adherence.
+
+Detailed quantitative metrics (e.g., Weighted Multi-Style DINO VIT-B/8 scores) and qualitative examples illustrate how the guidance scale influences the overall style consistency and image quality.
+<p align="center">
+    <img src="assets/eval_&_experiments/SLERP_Guidance_Ablation.png" alt="Screenshot" width="800">
+  </p>
+
+### Multi-Modality Fusion Ablation
+
+Our multi-modality fusion ablation explores the benefits of incorporating additional modalities beyond simple text (e.g., audio, music, and weather data) into the prompt. Key observations include:
+
+- **Enhanced Context:** Fusing multi-modal data enriches the textual prompt, leading to more contextually informed and creative outputs.
+- **Improved Style Consistency:** The integration of diverse modalities boosts the robustness of style alignment across generated images.
+- **Comparative Analysis:** Models with multi-modal fusion outperform their single-modal counterparts in terms of both quantitative metrics and perceptual image quality.
+
+Both ablation studies confirm that our design choices—adjusting the guidance scale and integrating multi-modal content—significantly contribute to the robustness and versatility of Z-SASLM.
+<p align="center">
+    <img src="assets/eval_&_experiments/multicontext.png" alt="Screenshot" width="800">
+  </p>
 
 ---
 
