@@ -84,7 +84,7 @@ pip install -r requirements.txt
 ## Architecture Proposed 📐
 
 <div style="text-align: center">
-  <img src="assets/method/architecture.png" alt="Screenshot" width="1200"/>
+  <img src="assets/method/architecture.png" alt="Screenshot" width="800"/>
 </div>
 
 Our framework is built as a modular pipeline that efficiently combines diverse style references and multi-modal cues without fine-tuning. The architecture comprises four main components:
@@ -111,7 +111,7 @@ Our framework is built as a modular pipeline that efficiently combines diverse s
 ## Results & Examples 📊
 
 <div style="text-align: center">
-  <img src="assets/results/results.png" alt="Screenshot" width="1200"/>
+  <img src="assets/results/results.png" alt="Screenshot" width="800"/>
 </div>
 
 Our experimental evaluation confirms the effectiveness of Z-SASLM across various style blending scenarios:
@@ -129,7 +129,7 @@ Our experimental evaluation confirms the effectiveness of Z-SASLM across various
 Overall, the results validate that Z-SASLM not only improves style consistency but also delivers high-fidelity images even under challenging multi-reference conditions. Explore the [notebooks](./notebooks) for interactive examples and detailed visual comparisons.
 
 <div style="text-align: center">
-  <img src="assets/blending/SLERP_3_Styles_Blending_EgyVanGoghMacro.png" width="1200">
+  <img src="assets/blending/SLERP_3_Styles_Blending_EgyVanGoghMacro.png" width="500">
 </div>
 ---
 
