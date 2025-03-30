@@ -147,7 +147,7 @@ In the guidance ablation study, we vary the guidance scale (e.g., from 5 to 30) 
 
 Detailed quantitative metrics (e.g., Weighted Multi-Style DINO VIT-B/8 scores) and qualitative examples illustrate how the guidance scale influences the overall style consistency and image quality.
 <p align="center">
-    <img src="assets/eval_&_experiments/SLERP_Guidance_Ablation.png" alt="Screenshot" width="800">
+    <img src="assets/eval_&_experiments/SLERP_Guidance_Ablation.png" alt="Screenshot" width="500">
   </p>
 
 ### Multi-Modality Fusion Ablation
@@ -160,7 +160,7 @@ Our multi-modality fusion ablation explores the benefits of incorporating additi
 
 Both ablation studies confirm that our design choices—adjusting the guidance scale and integrating multi-modal content—significantly contribute to the robustness and versatility of Z-SASLM.
 <p align="center">
-    <img src="assets/eval_&_experiments/multicontext.png" alt="Screenshot" width="800">
+    <img src="assets/eval_&_experiments/multicontext.png" alt="Screenshot" width="500">
   </p>
 
 ---
