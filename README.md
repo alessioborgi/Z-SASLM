@@ -173,11 +173,14 @@ Both ablation studies confirm that our design choices—adjusting the guidance s
 If you find our work useful, please cite our paper:
 
 ```bibtex
-@inproceedings{borgi2025z-saslm,
-  title={Z-SASLM: Zero-Shot Style-Aligned SLI Blending Latent Manipulation},
-  author={Borgi, Alessandro and others},
-  booktitle={CVPR 2025 Workshop on AI for Creative Visual Content Generation, Editing and Understanding},
-  year={2025}
+@misc{borgi2025zsaslmzeroshotstylealignedsli,
+      title={Z-SASLM: Zero-Shot Style-Aligned SLI Blending Latent Manipulation}, 
+      author={Alessio Borgi and Luca Maiano and Irene Amerini},
+      year={2025},
+      eprint={2503.23234},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2503.23234}, 
 }
 ```
 
