@@ -24,8 +24,8 @@ Sapienza University of Rome
   <a href="https://cveu.github.io/">
     <img src="https://img.shields.io/badge/CVPR%202025-Workshop-blue" alt="CVPR 2025 Workshop Accepted" style="height: 25px; margin-right: 5px;">
   </a>
-  <a href="https://arxiv.org/abs/XXXX">
-    <img src="https://img.shields.io/badge/arXiv-XXXX-orange" alt="arXiv" style="height: 25px; margin-right: 5px;">
+  <a href="https://arxiv.org/abs/2503.23234">
+    <img src="https://img.shields.io/badge/arXiv-2503.23234-orange" alt="arXiv" style="height: 25px; margin-right: 5px;">
   </a>
   <a href="https://alessioborgi.github.io/Z-SASLM.github.io/">
     <img src="https://img.shields.io/badge/Website-Project-green?logo=githubpages&logoColor=white" alt="Website" style="height: 25px; margin-right: 5px;">
@@ -191,8 +191,3 @@ If you find our work useful, please cite our paper:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-## Acknowledgements 🙏
-
-Special thanks to the CVPR 2025 Workshop organizers and the research community for their support and feedback.  
-*Stay creative and push the boundaries of style manipulation!*
