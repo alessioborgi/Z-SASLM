@@ -33,7 +33,7 @@ Sapienza University of Rome
   <a href="https://www.researchgate.net/publication/390303255_Z-SASLM_Zero-Shot_Style-Aligned_SLI_Blending_Latent_Manipulation">
     <img src="https://img.shields.io/badge/ResearchGate-Paper-00CCBB?logo=ResearchGate&logoColor=white" alt="ResearchGate" style="height: 25px; margin-right: 5px;">
   </a>
-  <a href="https://paperswithcode.com/paper/XXXXX">
+  <a href="https://paperswithcode.com/paper/z-saslm-zero-shot-style-aligned-sli-blending">
     <img src="https://img.shields.io/badge/Papers%20with%20Code-Enabled-9cf?logo=paperswithcode&logoColor=white" alt="Papers with Code" style="height: 25px; margin-right: 5px;">
   </a>
   <a href="https://www.academia.edu/128519694/Z_SASLM_Zero_Shot_Style_Aligned_SLI_Blending_Latent_Manipulation">
