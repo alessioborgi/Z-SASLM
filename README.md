@@ -11,7 +11,7 @@ Sapienza University of Rome
   <a href="mailto:amerini@diag.uniroma1.it">amerini@diag.uniroma1.it</a>
 </p>
 
-<p align="center"><sup>*</sup>Corresponding author: <a href="mailto:borgi.1952442@studenti.uniroma1.it">borgi.1952442@studenti.uniroma1.it</a></p>
+<p align="center"><sup>*</sup>Corresponding author</p>
 
 ### <b>[CVPR 2025](https://cvpr.thecvf.com/) [Workshop on AI for Creative Visual Content Generation, Editing, and Understanding](https://cveu.github.io/)
 
