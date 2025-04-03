@@ -30,6 +30,9 @@ Sapienza University of Rome
   <a href="https://alessioborgi.github.io/Z-SASLM.github.io/">
     <img src="https://img.shields.io/badge/Website-Project-green?logo=githubpages&logoColor=white" alt="Website" style="height: 25px; margin-right: 5px;">
   </a>
+  <a href="https://huggingface.co/papers/2503.23234">
+    <img src="https://img.shields.io/badge/HuggingFace-Papers-blue?logo=huggingface" alt="Hugging Face" style="height: 25px; margin-right: 5px;">
+  </a>
   <a href="https://www.researchgate.net/publication/390303255_Z-SASLM_Zero-Shot_Style-Aligned_SLI_Blending_Latent_Manipulation">
     <img src="https://img.shields.io/badge/ResearchGate-Paper-00CCBB?logo=ResearchGate&logoColor=white" alt="ResearchGate" style="height: 25px; margin-right: 5px;">
   </a>
