@@ -24,7 +24,7 @@ Sapienza University of Rome
 
 <p align="center">
   <a href="https://cveu.github.io/">
-    <img src="https://img.shields.io/badge/CVPR%202025-Workshop Procedings-blue" alt="CVPR 2025 Workshop Accepted" style="height: 25px; margin-right: 5px;">
+    <img src="https://img.shields.io/badge/CVPR%202025-IEEE-CVF CVPRW-blue" alt="CVPR 2025 Workshop Accepted" style="height: 25px; margin-right: 5px;">
   </a>
   <a href="https://arxiv.org/abs/2503.23234">
     <img src="https://img.shields.io/badge/arXiv-2503.23234-orange" alt="arXiv" style="height: 25px; margin-right: 5px;">
