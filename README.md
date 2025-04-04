@@ -14,7 +14,8 @@ Sapienza University of Rome
 <p align="center"><sup>*</sup>Corresponding author</p>
 
 ### <b>[CVPR 2025](https://cvpr.thecvf.com/) [Workshop on AI for Creative Visual Content Generation, Editing, and Understanding](https://cveu.github.io/)
-### <b>[Published in the Official CVPR 2025 Workshop Procedings](https://cveu.github.io/)
+### <b>[Published in 2025 IEEE-CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)](https://cveu.github.io/)
+### <b>[Official CVPR 2025 Workshop Procedings](https://cveu.github.io/)
 
 </div>
 
