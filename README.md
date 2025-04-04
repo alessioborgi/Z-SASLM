@@ -22,7 +22,7 @@ Sapienza University of Rome
 
 <p align="center">
   <a href="https://cveu.github.io/">
-    <img src="https://img.shields.io/badge/CVPR%202025-Workshop-blue" alt="CVPR 2025 Workshop Accepted" style="height: 25px; margin-right: 5px;">
+    <img src="https://img.shields.io/badge/CVPR%202025-Workshop Procedings-blue" alt="CVPR 2025 Workshop Accepted" style="height: 25px; margin-right: 5px;">
   </a>
   <a href="https://arxiv.org/abs/2503.23234">
     <img src="https://img.shields.io/badge/arXiv-2503.23234-orange" alt="arXiv" style="height: 25px; margin-right: 5px;">
@@ -49,7 +49,7 @@ Sapienza University of Rome
 
 ## Overview 🚀
 
-This is an *Official Implementation* of the paper **Z-SASLM: Zero-Shot Style-Aligned SLI Blending Latent Manipulation**, accepted at **CVPR 2025, Workshop on AI for Creative Visual Content Generation, Editing, and Understanding**. Z-SASLM is a zero-shot framework for multi-style image synthesis that leverages Spherical Linear Interpolation (SLI) to achieve smooth, coherent blending—without any fine-tuning. 
+This is an *Official Implementation* of the paper **Z-SASLM: Zero-Shot Style-Aligned SLI Blending Latent Manipulation**, accepted at **CVPR 2025, Workshop on AI for Creative Visual Content Generation, Editing, and Understanding** and published in the **Official CVPR 2025 Workshop Procedings**. Z-SASLM is a zero-shot framework for multi-style image synthesis that leverages Spherical Linear Interpolation (SLI) to achieve smooth, coherent blending—without any fine-tuning. 
 
 <p align="center">
   <img src="assets/blending/SLERP_2_Styles_Blending_MedCub.png" alt="Screenshot" width="500">
