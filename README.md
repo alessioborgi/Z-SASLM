@@ -179,7 +179,8 @@ Both ablation studies confirm that our design choices—adjusting the guidance s
 
 If you find our work useful, please cite our paper:
 
-```A. Borgi, L. Maiano and I. Amerini, "Z-SASLM: Zero-Shot Style-Aligned SLI Blending Latent Manipulation," 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), Nashville, TN, USA, 2025, pp. 6247-6256, doi: 10.1109/CVPRW67362.2025.00622. keywords: {Measurement;Geometry;Manifolds;Interpolation;Navigation;Pipelines;Focusing;Diffusion models;Pattern recognition;Meteorology;style;Alignment;zero-shot;spherical;interpolation;multi-style;blending;latent;space;manipulation;weighted;DINO VIT-B/8},
+```
+A. Borgi, L. Maiano and I. Amerini, "Z-SASLM: Zero-Shot Style-Aligned SLI Blending Latent Manipulation," 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), Nashville, TN, USA, 2025, pp. 6247-6256, doi: 10.1109/CVPRW67362.2025.00622. keywords: {Measurement;Geometry;Manifolds;Interpolation;Navigation;Pipelines;Focusing;Diffusion models;Pattern recognition;Meteorology;style;Alignment;zero-shot;spherical;interpolation;multi-style;blending;latent;space;manipulation;weighted;DINO VIT-B/8},
 ```
 
 ---
