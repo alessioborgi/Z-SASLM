@@ -23,7 +23,7 @@ Sapienza University of Rome
 </div>
 
 <p align="center">
-  <a href="https://cveu.github.io/">
+  <a href="https://ieeexplore.ieee.org/document/11147719">
     <img src="https://img.shields.io/badge/CVPR%202025-IEEE CVF CVPRW-blue" alt="CVPR 2025 Workshop Accepted" style="height: 25px; margin-right: 5px;">
   </a>
   <a href="https://arxiv.org/abs/2503.23234">
@@ -179,16 +179,7 @@ Both ablation studies confirm that our design choices—adjusting the guidance s
 
 If you find our work useful, please cite our paper:
 
-```bibtex
-@misc{borgi2025zsaslmzeroshotstylealignedsli,
-      title={Z-SASLM: Zero-Shot Style-Aligned SLI Blending Latent Manipulation}, 
-      author={Alessio Borgi and Luca Maiano and Irene Amerini},
-      year={2025},
-      eprint={2503.23234},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2503.23234}, 
-}
+```A. Borgi, L. Maiano and I. Amerini, "Z-SASLM: Zero-Shot Style-Aligned SLI Blending Latent Manipulation," 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), Nashville, TN, USA, 2025, pp. 6247-6256, doi: 10.1109/CVPRW67362.2025.00622. keywords: {Measurement;Geometry;Manifolds;Interpolation;Navigation;Pipelines;Focusing;Diffusion models;Pattern recognition;Meteorology;style;Alignment;zero-shot;spherical;interpolation;multi-style;blending;latent;space;manipulation;weighted;DINO VIT-B/8},
 ```
 
 ---
